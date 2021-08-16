@@ -191,6 +191,13 @@ margin-left: 30px;
 h3{
     color: white;
 }
+
+
+
+
+
+
+
 .hed{
     background-color: white;
   }
@@ -344,15 +351,15 @@ h3{
     text-align: center;
     text-decoration-color: white;
     
-    margin: 4px 2px;
+    margin: 2px 2px;
     cursor: pointer;
     
     
   }  
-  .button1:hover{
+  /* .button1:hover{
     color:white;
     background-color:white;
-  }
+  } */
   .hover-underline-animation {
     display: inline-block;
     position: relative;
