@@ -29,6 +29,7 @@
   border-style: hidden;
   box-shadow: 5px 10px 18px #888888;
 }
+<<<<<<< HEAD
 #line{
   width: 100%;
   height: 20px;
@@ -60,6 +61,43 @@
   width:20%;
   background-color:white;
    float: left;
+=======
+.image1{
+
+width: 50%;
+float: left;
+margin-top: 10px;
+margin-left: 30px;
+
+}
+.imgcontainer{
+    width: 50%;
+    background-color: white;
+    float: left;
+
+
+}
+.imgcon1{
+  width: 50%;
+  float: right;
+    height: 120px;
+    text-align:center;    
+
+}
+/* .imgcon1foot{
+    background-color: white;
+    width: 30%;
+    padding: 25px;
+    height: 60px;
+    text-align: left;
+    
+    
+} */
+.john{
+     margin-left: 40px;
+     width: 50%;
+     
+>>>>>>> e87750853a3d78879ab30b6c870a12fda4cd070a
 }
 .innerfour{
   width:25%;
